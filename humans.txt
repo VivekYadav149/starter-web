@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vivek Yadav		vivek.yadav@adidas.com
 
 # THANKS
 
